@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-    自动绑定数据：<br/><br/>
+    鐢ㄦ埛鍚嶏細<br/><br/>
     <%=username%><br/>
 </body>
 </html>
